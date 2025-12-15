@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - 'master'
+      - 'akef_temp'
     paths-ignore:
       - '**/LICENSE'
       - '**/README.md'
